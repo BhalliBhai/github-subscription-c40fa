@@ -1,1 +1,1 @@
-# paint-github-subscription-c40fa
+# github-subscriptions
